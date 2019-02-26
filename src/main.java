@@ -2,6 +2,8 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//Author ParvinEyvazov
+
 public class main {
     //con = consonants
     //vow = vowels
